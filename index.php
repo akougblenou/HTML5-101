@@ -3,22 +3,22 @@
 <html>
 <!-- Everything else goes in here -->
 	<head>
-		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/themea/style.css">
 		<title>HTML5 101</title>
 	</head>
-	<body>
+<body>
 		<div id="page">
 			<!-- Header of the whole page -->
-			<header><h1>HTML5 101</h1></header>
+			<header><h1>HTML5 101 - TUTORIAL 1 & 2</h1></header>
 			<!-- -->
 			<nav class="main-menu">
 			    <ul>
 
-	                <li><a href="#">Home</a></li>
+	                <li><a href="index.php">Tutorial 1+2</a></li>
 	 
-	                <li><a href="#">About</a></li>
+	                <li><a href="themeb.php">Tutorial 3</a></li>
 	 
-	                <li><a href="#">Contact</a></li>
+	                <li><a href="themec.php">Tutorial 4</a></li>
 	 	 	 
 	            </ul>
 			</nav>
@@ -36,7 +36,7 @@
 				        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum commodo ullamcorper adipiscing. Integer a eros odio, vel pretium lorem. Suspendisse in magna vitae nibh mattis aliquet. Quisque posuere erat vitae sem lobortis dictum. Vivamus ultricies, arcu eu ultricies mollis, justo metus aliquet sapien, non condimentum sem justo at turpis. Cras vestibulum luctus tempor. Mauris sodales purus tellus, id placerat leo. Integer neque ipsum, venenatis id auctor nec, lacinia id urna. Phasellus sed leo libero, id tincidunt mauris. Maecenas et erat ac erat sodales mollis in non odio. Duis aliquam pellentesque lorem vulputate sagittis. Maecenas porta vestibulum mauris in adipiscing. Nunc quis lectus et purus dapibus porttitor sed mattis massa. Phasellus vestibulum quam auctor felis eleifend auctor. 
 
 				        <figure>
-				        	<img alt="" src="img/logo.jpg" width="400" height="156"/>
+				        	<img alt="" src="img/themea/logo.jpg" width="400" height="156"/>
 				        	<figcaption><span>a famous logo</span></figcaption>
 				        </figure>
 				    </p>
