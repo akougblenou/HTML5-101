@@ -1,0 +1,22 @@
+body{font-size:14px;font-family: Helvetica, Arial, sans-serif;}
+h1{font-size:4.5em;}
+#page{border:1px solid black; margin:auto; padding:0;width:1000px;}
+header, nav, article, section, footer, address{display:block;}
+header, footer{color:#aaa; text-align:center; margin:0; padding:0;}
+header{background-color: rgb(0, 0, 0); padding: 20px;}
+nav{float:left; width:210px;}
+.main-menu{font-size: 18px;}
+nav ul {list-style:none;}
+nav ul li{margin: 10px 0;}
+nav ul li a{text-decoration:none;color:#000;}
+nav ul li a:hover{color:#aaa;}
+section#main{width:700px;margin: 20px 10px 10px 260px;}
+article{border-bottom: 1px solid #ccc;margin: 5px 0 10px 0;padding:5px;}
+time{color:#aaa; font-weight:bold;}
+figure{background-color:#aaa;max-width:410px;}
+figure img{padding:5px;}
+figcaption{text-align:center;}
+dialog dt{font-weight:bold;color:#aaa;}
+mark{font-style:italic;font-weight:bold;text-shadow: 2px 2px 3px #969696;
+ background-color:transparent;filter: dropshadow(color=#969696, offx=2, offy=2);}
+footer{background-color: rgb(33, 33, 33); padding:20px;clear:both;height:150px;}
